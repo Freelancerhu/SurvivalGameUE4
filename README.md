@@ -9,4 +9,6 @@ Developed with Unreal Engine 4
 <br />
 2. UI: <br />
   Get UI icon from website "easy icon".<br />
-  
+<br />
+3. Model: <br />
+  Get model/material from https://quixel.com/bridge.<br />
